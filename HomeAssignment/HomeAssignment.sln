@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeAssignment", "HomeAssignment\HomeAssignment.csproj", "{A95D34AB-60CC-4CFC-9EE8-CBD838FFA36B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5390D072-D487-4ABF-846C-16FE0F226A9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SectionA", "SectionA", "{4AD4E1F6-90E3-4BD0-8DF7-8C8DAE14D8EF}"
+	ProjectSection(SolutionItems) = preProject
+		..\Resources (Classes listed in Appendix)\Section A\InterviewCandidate.cs = ..\Resources (Classes listed in Appendix)\Section A\InterviewCandidate.cs
+		..\Resources (Classes listed in Appendix)\Section A\MaxHeapTest.cs = ..\Resources (Classes listed in Appendix)\Section A\MaxHeapTest.cs
+		..\Resources (Classes listed in Appendix)\Section A\PriorityQueueTest.cs = ..\Resources (Classes listed in Appendix)\Section A\PriorityQueueTest.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SectionB", "SectionB", "{AC3D4FDA-38EE-4522-A055-8D742E68E154}"
+	ProjectSection(SolutionItems) = preProject
+		..\Resources (Classes listed in Appendix)\Section B\SubsetSumProblem.cs = ..\Resources (Classes listed in Appendix)\Section B\SubsetSumProblem.cs
+		..\Resources (Classes listed in Appendix)\Section B\SubsetSumTest.cs = ..\Resources (Classes listed in Appendix)\Section B\SubsetSumTest.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A95D34AB-60CC-4CFC-9EE8-CBD838FFA36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95D34AB-60CC-4CFC-9EE8-CBD838FFA36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95D34AB-60CC-4CFC-9EE8-CBD838FFA36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95D34AB-60CC-4CFC-9EE8-CBD838FFA36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4AD4E1F6-90E3-4BD0-8DF7-8C8DAE14D8EF} = {5390D072-D487-4ABF-846C-16FE0F226A9C}
+		{AC3D4FDA-38EE-4522-A055-8D742E68E154} = {5390D072-D487-4ABF-846C-16FE0F226A9C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {215ECC5B-4A72-4E8A-BA57-C904D1F24FD8}
+	EndGlobalSection
+EndGlobal

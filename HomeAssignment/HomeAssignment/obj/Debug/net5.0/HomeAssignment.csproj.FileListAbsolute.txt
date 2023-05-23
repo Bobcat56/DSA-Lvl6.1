@@ -1,0 +1,16 @@
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\bin\Debug\net5.0\HomeAssignment.exe
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\bin\Debug\net5.0\HomeAssignment.deps.json
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\bin\Debug\net5.0\HomeAssignment.runtimeconfig.json
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\bin\Debug\net5.0\HomeAssignment.runtimeconfig.dev.json
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\bin\Debug\net5.0\HomeAssignment.dll
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\bin\Debug\net5.0\HomeAssignment.pdb
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\obj\Debug\net5.0\HomeAssignment.csproj.AssemblyReference.cache
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\obj\Debug\net5.0\HomeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\obj\Debug\net5.0\HomeAssignment.AssemblyInfoInputs.cache
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\obj\Debug\net5.0\HomeAssignment.AssemblyInfo.cs
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\obj\Debug\net5.0\HomeAssignment.csproj.CoreCompileInputs.cache
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\obj\Debug\net5.0\HomeAssignment.dll
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\obj\Debug\net5.0\refint\HomeAssignment.dll
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\obj\Debug\net5.0\HomeAssignment.pdb
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\obj\Debug\net5.0\HomeAssignment.genruntimeconfig.cache
+E:\School\Lvl 6.1A\Term 2\DataStructureAndAlgortihms\TakeHomeAssignment2\HomeAssignment\HomeAssignment\obj\Debug\net5.0\ref\HomeAssignment.dll
